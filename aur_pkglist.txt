@@ -1,0 +1,5 @@
+better-control-git
+catppuccin-gtk-theme-mocha
+hyprmod
+yay
+yay-debug
